@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/main_web_app/main_web_app.iml" filepath="$PROJECT_DIR$/main_web_app/main_web_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/my-web-test.iml" filepath="$PROJECT_DIR$/my-web-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-fragment/web-fragment.iml" filepath="$PROJECT_DIR$/web-fragment/web-fragment.iml" />
+    </modules>
+  </component>
+</project>
